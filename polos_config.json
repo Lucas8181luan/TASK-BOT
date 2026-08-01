@@ -1,0 +1,479 @@
+[
+  {
+    "id": "rj",
+    "nome": "RJ - Movimenta.Rio",
+    "evento": "11 - Movimenta.Rio: Ação Externa",
+    "polo_texto": "RJ - Movimenta.Rio",
+    "fluxo": "rj",
+    "cursos": [
+      {
+        "chaves": [
+          "AUXILIAR ADMINISTRATIVO"
+        ],
+        "texto": "Movimenta: Hibrido - Auxiliar Administrativo v2"
+      },
+      {
+        "chaves": [
+          "AGENTE DE DEFESA AMBIENTAL"
+        ],
+        "texto": "Movimenta: Hibrido - Agente de Defesa Ambiental v2"
+      },
+      {
+        "chaves": [
+          "MARKETING DIGITAL",
+          "MARKETING"
+        ],
+        "texto": "Movimenta: Hibrido - Marketing Digital v2"
+      },
+      {
+        "chaves": [
+          "GARÇOM"
+        ],
+        "texto": "Movimenta: Hibrido - Garcom (Boteco) v2"
+      },
+      {
+        "chaves": [
+          "INTELIGÊNCIA ARTIFICIAL"
+        ],
+        "texto": "Movimenta: Hibrido - Inteligencia Artificial v2"
+      },
+      {
+        "chaves": [
+          "CUMIN"
+        ],
+        "texto": "Movimenta: Hibrido - Cumim (Boteco) v2"
+      },
+      {
+        "chaves": [
+          "RECEPCIONISTA"
+        ],
+        "texto": "Movimenta: Hibrido - Recepcionista v2"
+      },
+      {
+        "chaves": [
+          "SOCIAL MEDIA"
+        ],
+        "texto": "Movimenta: Hibrido - Social Media v2"
+      },
+      {
+        "chaves": [
+          "ASSISTENTE DE LOGÍSTICA"
+        ],
+        "texto": "Movimenta: Hibrido - Assistente de Logistica v2"
+      },
+      {
+        "chaves": [
+          "AUXILIAR DE COZINHA"
+        ],
+        "texto": "Movimenta: Hibrido - Auxiliar de Cozinha v2"
+      },
+      {
+        "chaves": [
+          "GOVERNANÇA ESG"
+        ],
+        "texto": "Movimenta: Hibrido - Gerenciamento ESG v2"
+      },
+      {
+        "chaves": [
+          "UXUI DESIGNER"
+        ],
+        "texto": "Movimenta: Hibrido - UX/UI Designer v2"
+      },
+      {
+        "chaves": [
+          "GERENCIAMENTO TRÁFEGO DIGITAL"
+        ],
+        "texto": "Movimenta: Hibrido - Gerenciamento Trafego Digital v2"
+      },
+      {
+        "chaves": [
+          "CAMAREIRO"
+        ],
+        "texto": "Movimenta: Hibrido - Camareiro v2"
+      },
+      {
+        "chaves": [
+          "ORIENTADOR DE HOTELARIA"
+        ],
+        "texto": "Movimenta: Hibrido - Orientador de Hotelaria v2"
+      },
+      {
+        "chaves": [
+          "PEDREIRO DE ALVENARIA ESTRUTURAL"
+        ],
+        "texto": "Movimenta: Hibrido - Pedreiro de Alvenaria Estrutural v2"
+      },
+      {
+        "chaves": [
+          "APLICAÇÃO DE REVESTIMENTO CERÂMICOS"
+        ],
+        "texto": "Movimenta: Hibrido - Aplicacao de Revestimento Ceramicos v2"
+      },
+      {
+        "chaves": [
+          "INSTALADOR HIDRÁULICO PREDIAL"
+        ],
+        "texto": "Movimenta: Hibrido - Instalador Hidraulico Predial v2"
+      },
+      {
+        "chaves": [
+          "CARPINTEIRO DE OBRAS"
+        ],
+        "texto": "Movimenta: Hibrido - Carpinteiro de Obras v2"
+      },
+      {
+        "chaves": [
+          "ELETRICISTA PREDIAL"
+        ],
+        "texto": "Movimenta: Hibrido - Eletricista Predial v2"
+      },
+      {
+        "chaves": [
+          "SERRALHEIRO DE ALUMÍNIO"
+        ],
+        "texto": "Movimenta: Hibrido - Serralheiro de Aluminio v2"
+      },
+      {
+        "chaves": [
+          "AGENTE DE TURISMO CORPORATIVO"
+        ],
+        "texto": "Movimenta: Hibrido - Agente de Turismo Corporativo v2"
+      },
+      {
+        "chaves": [
+          "MONITOR DE LAZER E RECREAÇÃO"
+        ],
+        "texto": "Movimenta: Hibrido - Monitor de Lazer e Recreacao v2"
+      },
+      {
+        "chaves": [
+          "ATENDENTE DE SALÃO PARA CAFÉ DA MANHÃ"
+        ],
+        "texto": "Movimenta: Hibrido - Atendente de Salao para Cafe da Manha v2"
+      },
+      {
+        "chaves": [
+          "BENEFÍCIO DE PESCADO PARA VENDA"
+        ],
+        "texto": "Movimenta: Hibrido - Beneficio de Pescado para Venda v2"
+      },
+      {
+        "chaves": [
+          "TÉCNICAS E PESCA SUSTENTÁVEL"
+        ],
+        "texto": "Movimenta: Hibrido - Tecnicas e Pesca Sustentavel v2"
+      },
+      {
+        "chaves": [
+          "ECOTURISMO E GESTÃO DE UNIDADES"
+        ],
+        "texto": "Movimenta: Hibrido - Ecoturismo e Gestao de Unidades v2"
+      },
+      {
+        "chaves": [
+          "GESTOR DE RESÍDUOS SÓLIDOS"
+        ],
+        "texto": "Movimenta: Hibrido - Gestor de Residuos Solidos v2"
+      },
+      {
+        "chaves": [
+          "OPERADOR DE SISTEMA DE COMPOSTAGEM"
+        ],
+        "texto": "Movimenta: Hibrido - Operador de Sistema de Compostagem v2"
+      },
+      {
+        "chaves": [
+          "📑 PREPARATÓRIO ENCCEJA 2026"
+        ],
+        "texto": "1 - Preparatorio Encceja: Presencial - Encceja 2025"
+      },
+      {
+        "chaves": [
+          "DESIGNER DE SOBRANCELHAS"
+        ],
+        "texto": "Movimenta: Hibrido - Designer De Sobrancelhas v2"
+      },
+      {
+        "chaves": [
+          "MANICURE"
+        ],
+        "texto": "Movimenta: Hibrido - Manicure v2"
+      },
+      {
+        "chaves": [
+          "TRANCISTA"
+        ],
+        "texto": "Movimenta: Hibrido - Trancista v2"
+      }
+    ],
+    "coordenadas": {
+      "nome": [
+        480,
+        320
+      ],
+      "sexo": [
+        480,
+        361
+      ],
+      "cep": [
+        289,
+        456
+      ],
+      "botao_proximo1": [
+        964,
+        644
+      ]
+    }
+  },
+  {
+    "id": "ce",
+    "nome": "CE - Fortaleza",
+    "evento": "11 - Movimenta.Rio: Ação Externa",
+    "polo_texto": "CE - Fortaleza",
+    "fluxo": "fortaleza",
+    "cursos": [
+      {
+        "chaves": [
+          "AUXILIAR ADMINISTRATIVO"
+        ],
+        "texto": "Movimenta: Hibrido - Auxiliar Administrativo v2"
+      },
+      {
+        "chaves": [
+          "AGENTE DE DEFESA AMBIENTAL"
+        ],
+        "texto": "Movimenta: Hibrido - Agente de Defesa Ambiental v2"
+      },
+      {
+        "chaves": [
+          "MARKETING DIGITAL"
+        ],
+        "texto": "Movimenta: Hibrido - Marketing Digital v2"
+      },
+      {
+        "chaves": [
+          "GARÇOM"
+        ],
+        "texto": "Movimenta: Hibrido - Garcom (Boteco) v2"
+      },
+      {
+        "chaves": [
+          "INTELIGÊNCIA ARTIFICIAL"
+        ],
+        "texto": "Movimenta: Hibrido - Inteligencia Artificial v2"
+      },
+      {
+        "chaves": [
+          "CUMIN"
+        ],
+        "texto": "Movimenta: Hibrido - Cumim (Boteco) v2"
+      },
+      {
+        "chaves": [
+          "RECEPCIONISTA"
+        ],
+        "texto": "Movimenta: Hibrido - Recepcionista v2"
+      },
+      {
+        "chaves": [
+          "SOCIAL MEDIA"
+        ],
+        "texto": "Movimenta: Hibrido - Social Media v2"
+      },
+      {
+        "chaves": [
+          "ASSISTENTE DE LOGÍSTICA"
+        ],
+        "texto": "Movimenta: Hibrido - Assistente de Logistica v2"
+      },
+      {
+        "chaves": [
+          "AUXILIAR DE COZINHA"
+        ],
+        "texto": "Movimenta: Hibrido - Auxiliar de Cozinha v2"
+      },
+      {
+        "chaves": [
+          "GOVERNANÇA ESG"
+        ],
+        "texto": "Movimenta: Hibrido - Gerenciamento ESG v2"
+      },
+      {
+        "chaves": [
+          "UXUI DESIGNER"
+        ],
+        "texto": "Movimenta: Hibrido - UX/UI Designer v2"
+      },
+      {
+        "chaves": [
+          "GERENCIAMENTO TRÁFEGO DIGITAL"
+        ],
+        "texto": "Movimenta: Hibrido - Gerenciamento Trafego Digital v2"
+      },
+      {
+        "chaves": [
+          "CAMAREIRO"
+        ],
+        "texto": "Movimenta: Hibrido - Camareiro v2"
+      },
+      {
+        "chaves": [
+          "ORIENTADOR DE HOTELARIA"
+        ],
+        "texto": "Movimenta: Hibrido - Orientador de Hotelaria v2"
+      },
+      {
+        "chaves": [
+          "PEDREIRO DE ALVENARIA ESTRUTURAL"
+        ],
+        "texto": "Movimenta: Hibrido - Pedreiro de Alvenaria Estrutural v2"
+      },
+      {
+        "chaves": [
+          "APLICAÇÃO DE REVESTIMENTO CERÂMICOS"
+        ],
+        "texto": "Movimenta: Hibrido - Aplicacao de Revestimento Ceramicos v2"
+      },
+      {
+        "chaves": [
+          "INSTALADOR HIDRÁULICO PREDIAL"
+        ],
+        "texto": "Movimenta: Hibrido - Instalador Hidraulico Predial v2"
+      },
+      {
+        "chaves": [
+          "CARPINTEIRO DE OBRAS"
+        ],
+        "texto": "Movimenta: Hibrido - Carpinteiro de Obras v2"
+      },
+      {
+        "chaves": [
+          "ELETRICISTA PREDIAL"
+        ],
+        "texto": "Movimenta: Hibrido - Eletricista Predial v2"
+      },
+      {
+        "chaves": [
+          "SERRALHEIRO DE ALUMÍNIO"
+        ],
+        "texto": "Movimenta: Hibrido - Serralheiro de Aluminio v2"
+      },
+      {
+        "chaves": [
+          "AGENTE DE TURISMO CORPORATIVO"
+        ],
+        "texto": "Movimenta: Hibrido - Agente de Turismo Corporativo v2"
+      },
+      {
+        "chaves": [
+          "MONITOR DE LAZER E RECREAÇÃO"
+        ],
+        "texto": "Movimenta: Hibrido - Monitor de Lazer e Recreacao v2"
+      },
+      {
+        "chaves": [
+          "ATENDENTE DE SALÃO PARA CAFÉ DA MANHÃ"
+        ],
+        "texto": "Movimenta: Hibrido - Atendente de Salao para Cafe da Manha v2"
+      },
+      {
+        "chaves": [
+          "BENEFÍCIO DE PESCADO PARA VENDA"
+        ],
+        "texto": "Movimenta: Hibrido - Beneficio de Pescado para Venda v2"
+      },
+      {
+        "chaves": [
+          "TÉCNICAS E PESCA SUSTENTÁVEL"
+        ],
+        "texto": "Movimenta: Hibrido - Tecnicas e Pesca Sustentavel v2"
+      },
+      {
+        "chaves": [
+          "ECOTURISMO E GESTÃO DE UNIDADES"
+        ],
+        "texto": "Movimenta: Hibrido - Ecoturismo e Gestao de Unidades v2"
+      },
+      {
+        "chaves": [
+          "GESTOR DE RESÍDUOS SÓLIDOS"
+        ],
+        "texto": "Movimenta: Hibrido - Gestor de Residuos Solidos v2"
+      },
+      {
+        "chaves": [
+          "OPERADOR DE SISTEMA DE COMPOSTAGEM"
+        ],
+        "texto": "Movimenta: Hibrido - Operador de Sistema de Compostagem v2"
+      },
+      {
+        "chaves": [
+          "📑 PREPARATÓRIO ENCCEJA 2026"
+        ],
+        "texto": "1 - Preparatorio Encceja: Presencial - Encceja 2025"
+      },
+      {
+        "chaves": [
+          "DESIGNER DE SOBRANCELHAS"
+        ],
+        "texto": "Movimenta: Hibrido - Designer De Sobrancelhas v2"
+      },
+      {
+        "chaves": [
+          "MANICURE"
+        ],
+        "texto": "Movimenta: Hibrido - Manicure v2"
+      },
+      {
+        "chaves": [
+          "TRANCISTA"
+        ],
+        "texto": "Movimenta: Hibrido - Trancista v2"
+      },
+      {
+        "chaves": [
+          "PEDICURE"
+        ],
+        "texto": "Movimenta: Hibrido - Pedicure v2"
+      },
+      {
+        "chaves": [
+          "DESIGNER DE UNHAS"
+        ],
+        "texto": "Movimenta: Hibrido - Designer De Unhas v2"
+      },
+      {
+        "chaves": [
+          "EXTENSÃO DE CÍLIOS"
+        ],
+        "texto": "Movimenta.Fortaleza: Hibrido - Extensão de Cílios"
+      }
+    ],
+    "coordenadas": {
+      "nome": [
+        284,
+        410
+      ],
+      "sexo": [
+        284,
+        450
+      ],
+      "cep": [
+        45,
+        567
+      ],
+      "botao_proximo1": [
+        890,
+        802
+      ],
+      "f10_click": [
+        205,
+        405
+      ],
+      "botao_final": [
+        946,
+        805
+      ]
+    }
+  }
+]
